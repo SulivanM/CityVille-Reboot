@@ -2,7 +2,7 @@
 
 > CityVille(Facebook) officially closed April 30th, 2015
 
-The CityVille preservation project by the mobachocolate team.
+The CityVille preservation project by fans team.
 This project is dedicated to preserving this Flash game so that it's not lost to time.
 
 ---
@@ -14,13 +14,6 @@ This project is dedicated to preserving this Flash game so that it's not lost to
 
 ## Reporting Bugs and Contacting
 :speech_balloon: Check our [Discord group](https://discord.gg/rdpFXhja5Q)
-
-## External Links
-:beginner: [CityVille Wiki](https://forum.mobachocolate.net)
-
-:beginner: [CityVille Wiki (FANDOM)](https://cityville.fandom.com/wiki/CityVille_Wiki)
-
-:clapper: [CityVille Fan Site](https://cityville.mobachocolate.net)
 
 ## On archives and accessibility to digital heritage
 - [Exemption to PCCPSACT](https://www.federalregister.gov/documents/2018/10/26/2018-23241/exemption-to-prohibition-on-circumvention-of-copyright-protection-systems-for-access-control), exemptions to the provision of the Digital Millennium Copyright Act (“DMCA”). 
@@ -34,7 +27,6 @@ This project is dedicated to preserving this Flash game so that it's not lost to
 ## License [![GPL v3](https://img.shields.io/badge/GPL%20v3-blue)](http://www.gnu.org/licenses/gpl-3.0)
 ```
 Old CityVille preservation project.
-Copyright (C) 2023  The MobaChocolate team
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
