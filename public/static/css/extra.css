@@ -1,0 +1,426 @@
+div#tabs {
+    display: block;
+    border-bottom: 4px solid #ffe8af;
+}
+
+div#tabs ul {
+    padding: 10px 0 0 5px;
+    width: auto;
+    background: white bottom left repeat-x;
+    list-style-type: none outside none;
+}
+
+div#tabs ul li {
+    display: inline;
+    margin: 0 2px;
+}
+
+div#tabs ul li.zmcButton {
+    background: none;
+    border: none;
+    padding: 0;
+    margin: 0;
+}
+
+/* INACTIVE TABS */
+div#tabs ul li a {
+    font-size: 8pt;
+    background-color: #FFE6A9;
+    border: 2px solid #BDAB7D;
+    display: inline-block;
+    padding: 4px;
+    text-decoration: none;
+    color: #473C1E;
+    /*
+border-radius: 5px;
+-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+*/
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    -webkit-border-top-left-radius: 5px;
+    -webkit-border-top-right-radius: 5px;
+    -moz-border-radius-topleft: 5px;
+    -moz-border-radius-topright: 5px;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFF3D9', endColorstr='#ffe6a9');
+    background: -webkit-gradient(linear, left top, left bottom, from(#FFF3D9), to(#ffe6a9));
+    background: -moz-linear-gradient(top, #FFF3D9, #ffe6a9);
+}
+
+div#tabs ul li.subscriptionTab a {
+    background-color: #C374BF;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#A3E68A', endColorstr='#5EC441');
+    background: -webkit-gradient(linear, left top, left bottom, from(#A3E68A), to(#5EC441));
+    background: -moz-linear-gradient(top, #A3E68A, #5EC441);
+}
+
+div#tabs ul li.flashSale a {
+    background-color: #C374BF;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFD7FF', endColorstr='#FFAEFB');
+    background: -webkit-gradient(linear, left top, left bottom, from(#FFD7FF), to(#FFAEFB));
+    background: -moz-linear-gradient(top, #FFD7FF, #FFAEFB);
+}
+
+div#tabs ul li.flashSale a {
+    background-color: #C374BF;
+    border: 2px solid #BD7DB9;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFAFFB', endColorstr='#FFD7FF');
+    background: -webkit-gradient(linear, left top, left bottom, from(#FFAFFB), to(#FFD7FF));
+    background: -moz-linear-gradient(top, #FFAFFB, #FFD7FF);
+}
+
+/* ACTIVE TAB */
+div#tabs ul li.selected a,
+div#tabs ul li.selected a:hover {
+    background-color: #D9BA6C;
+    color: #473C1E;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ECD9AB', endColorstr='#D9BA6C');
+    background: -webkit-gradient(linear, left top, left bottom, from(#ECD9AB), to(#D9BA6C));
+    background: -moz-linear-gradient(top, #ECD9AB, #D9BA6C);
+}
+
+div#tabs ul li.subscriptionTab.selected a,
+div#tabs ul li.subscriptionTab.selected a:hover {
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#BAEDA7', endColorstr='#63CF44');
+    background: -webkit-gradient(linear, left top, left bottom, from(#BAEDA7), to(#63CF44));
+    background: -moz-linear-gradient(top, #BAEDA7, #63CF44);
+}
+
+div#tabs ul li.flashSale.selected a,
+div#tabs ul li.flashSale.selected a:hover {
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#F2B6F1', endColorstr='#D96CD3');
+    background: -webkit-gradient(linear, left top, left bottom, from(#F2B6F1), to(#D96CD3));
+    background: -moz-linear-gradient(top, #F2B6F1, #D96CD3);
+}
+
+/* HOVER */
+div#tabs ul li a:hover {
+    background-color: #F7D840;
+    color: #473C1E;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFF2B0', endColorstr='#F7D840');
+    background: -webkit-gradient(linear, left top, left bottom, from(#FFF2B0), to(#F7D840));
+    background: -moz-linear-gradient(top, #FFF2B0, #F7D840);
+}
+
+div#tabs ul li.subscriptionTab a:hover {
+    background-color: #C374BF;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#BAEDA7', endColorstr='#63CF44');
+    background: -webkit-gradient(linear, left top, left bottom, from(#BAEDA7), to(#63CF44));
+    background: -moz-linear-gradient(top, #BAEDA7, #63CF44);
+}
+
+div#tabs ul li.flashSale a:hover {
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFC5F5', endColorstr='#F057e9');
+    background: -webkit-gradient(linear, left top, left bottom, from(#FFC5F5), to(#F057e9));
+    background: -moz-linear-gradient(top, #FFC5F5, #F057e9);
+}
+
+/* Share bar */
+#share {
+    background: transparent url('http://cityvillefb0.static.zgncdn.com / 88a439e/images/share_banner.png') no-repeat;
+    height: 36px;
+    margin-bottom: 5px;
+}
+
+#share a {
+    height: 38px;
+    width: 132px;
+    display: block;
+    text-indent: -9999px;
+    margin-left: 577px;
+    background: transparent url('http://cityvillefb0.static.zgncdn.com / 88a439e/images/share_button.png') no-repeat;
+}
+
+#share a:hover {
+    background-position: 0 -38px;
+}
+
+#share a:active {
+    background-position: 0 -76px;
+}
+
+#z_lang_button {
+    background-image: url('static/game_data/LS_Globe.png');
+    background-position: 0 0;
+    display: block;
+    width: 24px;
+    height: 24px;
+    margin-top: 0;
+    margin-left: 0;
+}
+
+#z_lang_button:hover {
+    background-position: 0 -24px;
+}
+
+#z_lang_button:active {
+    background-position: 0 0;
+    margin-top: 1px;
+    margin-left: 1px;
+}
+
+.like_box {
+    width: 49%;
+    float: left;
+}
+
+#genericOverlay {
+    display: none;
+    position: absolute;
+    left: 50%;
+    z-index: 1;
+}
+
+#overlayClose {
+    position: absolute;
+    z-index: 2;
+}
+
+#overlayClose img {
+    border: 0;
+}
+
+#fbLikeOverlay {
+    display: none;
+    position: absolute;
+    text-align: center;
+    left: 40%;
+    top: 25%;
+    z-index: 1;
+}
+
+.defaultBorder {
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border: 5px solid #fff3c9;
+    background: #fff;
+}
+
+.defaultFrame {
+    width: 720px;
+    height: 578px;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    border: 2px solid white;
+    margin: 0;
+    overflow: hidden;
+    background: #fff;
+}
+
+.surveyFrame {
+    width: 732px;
+    height: 486px;
+    border: none;
+}
+
+#ad {
+    width: 728px;
+    height: 90px;
+    margin: 10px auto;
+}
+
+/* Widget */
+.connect_like_widget {
+    margin: 0 4px;
+    width: 300px;
+    position: relative;
+    background: none repeat scroll 0 0 rgb(255, 255, 255);
+    font-size: 11px;
+    font-family: "lucida grande", tahoma, verdana, arial, sans-serif;
+    color: rgb(51, 51, 51);
+    line-height: 1.28;
+    z-index: 10000;
+}
+
+/* Pointer Image */
+.connect_like_widget .widget_pointer {
+    height: 6px;
+    width: 20px;
+    padding: 0;
+    margin: 0;
+    left: 0;
+    line-height: 0;
+    position: absolute;
+    z-index: 2;
+    top: 0;
+}
+
+/* Top Container */
+.connect_like_widget .like_content {
+    background: none repeat scroll 0 0 white;
+    border-color: rgb(51, 51, 51) rgb(51, 51, 51) rgb(40, 62, 108);
+    border-style: solid;
+    border-width: 1px 1px 2px;
+}
+
+.connect_like_widget .connect_like_widget_full_input_region {
+    padding: 8px 8px 5px;
+}
+
+/* iFrame */
+.connect_like_widget .connect_like_widget_title {
+    font-size: 12px;
+    font-weight: bold;
+    margin-top: -2px;
+}
+
+.connect_like_widget .connect_like_widget_description,
+.connect_like_widget .connect_like_widget_href {
+    font-size: 11px;
+    line-height: 11px;
+    margin-bottom: 6px;
+}
+
+.connect_like_widget .connect_like_widget_description {
+    color: rgb(0, 0, 0);
+}
+
+/* Close Button Region */
+.connect_like_widget div.connect_like_widget_button_region {
+    padding: 8px 8px 5px;
+    text-align: right;
+    background-color: rgb(242, 242, 242);
+    border-top: 1px solid rgb(189, 199, 216);
+}
+
+/* Close Button */
+.uiButton,
+.uiButtonSuppressed:active,
+.uiButtonSuppressed:focus,
+.uiButtonSuppressed:hover {
+    background-repeat: no-repeat;
+    background-position: 0 -245px;
+    background-color: rgb(238, 238, 238);
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(153, 153, 153) rgb(153, 153, 153) rgb(136, 136, 136);
+    -moz-border-top-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-image: none;
+    box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    display: inline-block;
+    font-size: 11px;
+    font-weight: bold;
+    line-height: normal ! important;
+    padding: 2px 6px;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: top;
+    white-space: nowrap;
+}
+
+.uiButton:hover {
+    text-decoration: none;
+}
+
+.uiButton:active,
+.uiButtonDepressed {
+    background: none repeat scroll 0 0 rgb(221, 221, 221);
+    border-bottom-color: rgb(153, 153, 153);
+    box-shadow: 0 1px 0 rgba(0, 0, 0, 0.05);
+}
+
+.uiButton .uiButtonText,
+.uiButton input {
+    background: none repeat scroll 0 0 transparent;
+    border: 0 none;
+    color: rgb(51, 51, 51);
+    cursor: pointer;
+    display: inline-block;
+    font-family: 'Lucida Grande', Tahoma, Verdana, Arial, sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    margin: 0;
+    outline: medium none;
+    padding: 1px 0 2px;
+    white-space: nowrap;
+}
+
+.mac .uiButton .uiButtonText,
+.mac .uiButton input {
+    margin-bottom: -1px;
+}
+
+.uiButton input::-moz-focus-inner {
+    border: 0 none;
+    padding: 0;
+}
+
+/* Shadow */
+.connect_like_widget_container {
+    background: none repeat scroll 0 0 rgba(82, 82, 82, 0.7);
+    border-radius: 8px 8px 8px 8px;
+    padding: 10px;
+}
+
+/* Header blue container */
+#like_widget_title {
+    -moz-border-bottom-colors: none;
+    -moz-border-image: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border: 1px solid #3B5998;
+    background: none repeat scroll 0 0 #6D84B4;
+    border-color: #3B5998 #3B5998 -moz-use-text-color;
+    border-style: solid solid none;
+    border-width: 1px 1px medium;
+    color: #FFFFFF;
+    font-size: 14px;
+    font-weight: bold;
+    margin: 0;
+    padding: 5px 10px;
+}
+
+#dialog_close_icon {
+    background: url("{{ url_for('static', filename='game_data/fb_close_icon.png') }}") no-repeat scroll 0 0 transparent;
+    cursor: pointer;
+    display: block;
+    height: 15px;
+    position: absolute;
+    right: 7px;
+    top: 6px;
+    width: 15px;
+}
+
+#dialog_close_icon:hover {
+    background: url("{{ url_for('static', filename='game_data/fb_close_icon.png') }}") no-repeat scroll 0 -15px transparent;
+}
+
+#dialog_close_icon:active {
+    background: url("{{ url_for('static', filename='game_data/fb_close_icon.png') }}") no-repeat scroll 0 -30px transparent;
+}
+
+.dialog_icon {
+    background: url("http://cityvillefb0.static.zgncdn.com/88a439e/images/fb_logo_icon_16x16.png") no-repeat scroll center center #6D84B4;
+    float: left;
+    height: 16px;
+    margin: 5px;
+    width: 16px;
+}
+
+.uiButtonConfirm {
+    background-repeat: no-repeat;
+    background-position: 0 -294px;
+    background-color: rgb(91, 116, 168);
+    color: #fff;
+    border-color: rgb(41, 68, 126) rgb(41, 68, 126) rgb(26, 53, 110);
+}
+
+.uiButtonConfirm input {
+    color: #fff;
+}
+
+/* Clearfix clear*/
+.clearfix:after {
+    clear: both;
+    content: ".";
+    display: block;
+    font-size: 0;
+    height: 0;
+    line-height: 0;
+    visibility: hidden;
+}

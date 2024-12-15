@@ -1,0 +1,609 @@
+{
+    "signedParams": {},
+    "stats": [
+        {
+            "data": [
+                "startup",
+                "all",
+                "2_preloader_50",
+                "",
+                "",
+                "",
+                1
+            ],
+            "statfunction": "count"
+        }
+    ]
+}{
+    "signedParams": {},
+    "stats": [
+        {
+            "data": [
+                "startup",
+                "all",
+                "2_preloader_50",
+                "",
+                "",
+                "",
+                1
+            ],
+            "statfunction": "count"
+        }
+    ]
+}{
+    "stats": [
+        {
+            "data": [
+                "startup",
+                "all",
+                "2_preloader_50",
+                "",
+                "",
+                "",
+                1
+            ],
+            "statfunction": "count"
+        }
+    ],
+    "signedParams": {
+        "zySnid": "333",
+        "zyUid": "333",
+        "zySnuid": "333"
+    }
+}{
+    "stats": [
+        {
+            "data": [
+                "startup",
+                "all",
+                "2_preloader_50",
+                "",
+                "",
+                "",
+                1
+            ],
+            "statfunction": "count"
+        }
+    ],
+    "signedParams": {
+        "zyUid": "333",
+        "zySnid": "333",
+        "zySnuid": "333"
+    }
+}{
+    "stats": [
+        {
+            "data": [
+                "startup",
+                "all",
+                "2_preloader_50",
+                "",
+                "",
+                "",
+                1
+            ],
+            "statfunction": "count"
+        }
+    ],
+    "signedParams": {
+        "zySnid": "333",
+        "zyUid": "333",
+        "zySnuid": "333"
+    }
+}{
+    "stats": [
+        {
+            "data": [
+                "startup",
+                "all",
+                "2_preloader_50",
+                "",
+                "",
+                "",
+                1
+            ],
+            "statfunction": "count"
+        }
+    ],
+    "signedParams": {
+        "zySnid": "333",
+        "zyUid": "333",
+        "zySnuid": "333"
+    }
+}{
+    "stats": [
+        {
+            "data": [
+                "startup",
+                "all",
+                "2_preloader_50",
+                "",
+                "",
+                "",
+                1
+            ],
+            "statfunction": "count"
+        }
+    ],
+    "signedParams": {
+        "zySnid": "333",
+        "zyUid": "333",
+        "zySnuid": "333"
+    }
+}{
+    "stats": [
+        {
+            "data": [
+                "startup",
+                "all",
+                "2_preloader_50",
+                "",
+                "",
+                "",
+                1
+            ],
+            "statfunction": "count"
+        }
+    ],
+    "signedParams": {
+        "zySnid": "333",
+        "zyUid": "333",
+        "zySnuid": "333"
+    }
+}{
+    "stats": [
+        {
+            "data": [
+                "startup",
+                "all",
+                "2_preloader_50",
+                "",
+                "",
+                "",
+                1
+            ],
+            "statfunction": "count"
+        }
+    ],
+    "signedParams": {
+        "zySnid": "333",
+        "zyUid": "333",
+        "zySnuid": "333"
+    }
+}{
+    "stats": [
+        {
+            "data": [
+                "startup",
+                "all",
+                "2_preloader_50",
+                "",
+                "",
+                "",
+                1
+            ],
+            "statfunction": "count"
+        }
+    ],
+    "signedParams": {
+        "zySnid": "333",
+        "zyUid": "333",
+        "zySnuid": "333"
+    }
+}{
+    "stats": [
+        {
+            "data": [
+                "startup",
+                "all",
+                "2_preloader_50",
+                "",
+                "",
+                "",
+                1
+            ],
+            "statfunction": "count"
+        }
+    ],
+    "signedParams": {
+        "zyUid": "333",
+        "zySnid": "333",
+        "zySnuid": "333"
+    }
+}{
+    "stats": [
+        {
+            "data": [
+                "startup",
+                "all",
+                "3_gamesettings",
+                "",
+                "",
+                "",
+                1
+            ],
+            "statfunction": "count"
+        }
+    ],
+    "signedParams": {
+        "zyUid": "333",
+        "zySnid": "333",
+        "zySnuid": "333"
+    }
+}{
+    "stats": [
+        {
+            "data": [
+                "errors",
+                "transaction_fault_userinit",
+                "0",
+                "errorCode: 2",
+                "test_app_mode: true",
+                "net status failure",
+                1
+            ],
+            "statfunction": "count"
+        },
+        {
+            "data": [
+                "hud_clicks",
+                "add_energy",
+                "",
+                "",
+                "",
+                "",
+                1
+            ],
+            "statfunction": "count"
+        }
+    ],
+    "signedParams": {
+        "zyUid": "333",
+        "zySnid": "333",
+        "zySnuid": "333"
+    }
+}{
+    "stats": [
+        {
+            "data": [
+                "hud_clicks",
+                "add_energy",
+                "",
+                "",
+                "",
+                "",
+                1
+            ],
+            "statfunction": "count"
+        },
+        {
+            "data": [
+                "hud_clicks",
+                "add_energy",
+                "",
+                "",
+                "",
+                "",
+                1
+            ],
+            "statfunction": "count"
+        },
+        {
+            "data": [
+                "hud_clicks",
+                "add_energy",
+                "",
+                "",
+                "",
+                "",
+                1
+            ],
+            "statfunction": "count"
+        }
+    ],
+    "signedParams": {
+        "zyUid": "333",
+        "zySnid": "333",
+        "zySnuid": "333"
+    }
+}{
+    "stats": [
+        {
+            "data": [
+                "startup",
+                "all",
+                "2_preloader_50",
+                "",
+                "",
+                "",
+                1
+            ],
+            "statfunction": "count"
+        }
+    ],
+    "signedParams": {
+        "zyUid": "333",
+        "zySnid": "333",
+        "zySnuid": "333"
+    }
+}{
+    "stats": [
+        {
+            "data": [
+                "startup",
+                "all",
+                "3_gamesettings",
+                "",
+                "",
+                "",
+                1
+            ],
+            "statfunction": "count"
+        }
+    ],
+    "signedParams": {
+        "zyUid": "333",
+        "zySnid": "333",
+        "zySnuid": "333"
+    }
+}{
+    "stats": [
+        {
+            "data": [
+                "errors",
+                "transaction_fault_userinit",
+                "0",
+                "errorCode: 2",
+                "test_app_mode: true",
+                "net status failure",
+                1
+            ],
+            "statfunction": "count"
+        }
+    ],
+    "signedParams": {
+        "zyUid": "333",
+        "zySnid": "333",
+        "zySnuid": "333"
+    }
+}{
+    "signedParams": {
+        "zyUid": "333",
+        "zySnid": "333",
+        "zySnuid": "333"
+    },
+    "stats": [
+        {
+            "data": [
+                "startup",
+                "all",
+                "2_preloader_50",
+                "",
+                "",
+                "",
+                1
+            ],
+            "statfunction": "count"
+        }
+    ]
+}{
+    "signedParams": {
+        "zyUid": "333",
+        "zySnid": "333",
+        "zySnuid": "333"
+    },
+    "stats": [
+        {
+            "data": [
+                "startup",
+                "all",
+                "3_gamesettings",
+                "",
+                "",
+                "",
+                1
+            ],
+            "statfunction": "count"
+        }
+    ]
+}{
+    "signedParams": {
+        "zyUid": "333",
+        "zySnid": "333",
+        "zySnuid": "333"
+    },
+    "stats": [
+        {
+            "data": [
+                "errors",
+                "transaction_fault_userinit",
+                "0",
+                "errorCode: 2",
+                "test_app_mode: true",
+                "net status failure",
+                1
+            ],
+            "statfunction": "count"
+        }
+    ]
+}{
+    "signedParams": {
+        "zyUid": "333",
+        "zySnid": "333",
+        "zySnuid": "333"
+    },
+    "stats": [
+        {
+            "data": [
+                "startup",
+                "all",
+                "2_preloader_50",
+                "",
+                "",
+                "",
+                1
+            ],
+            "statfunction": "count"
+        }
+    ]
+}{
+    "signedParams": {
+        "zyUid": "333",
+        "zySnid": "333",
+        "zySnuid": "333"
+    },
+    "stats": [
+        {
+            "data": [
+                "startup",
+                "all",
+                "3_gamesettings",
+                "",
+                "",
+                "",
+                1
+            ],
+            "statfunction": "count"
+        }
+    ]
+}{
+    "signedParams": {
+        "zyUid": "333",
+        "zySnid": "333",
+        "zySnuid": "333"
+    },
+    "stats": [
+        {
+            "data": [
+                "errors",
+                "transaction_fault_userinit",
+                "0",
+                "errorCode: 2",
+                "test_app_mode: true",
+                "net status failure",
+                1
+            ],
+            "statfunction": "count"
+        }
+    ]
+}{
+    "signedParams": {
+        "zyUid": "333",
+        "zySnid": "333",
+        "zySnuid": "333"
+    },
+    "stats": [
+        {
+            "data": [
+                "startup",
+                "all",
+                "2_preloader_50",
+                "",
+                "",
+                "",
+                1
+            ],
+            "statfunction": "count"
+        }
+    ]
+}{
+    "signedParams": {
+        "zyUid": "333",
+        "zySnid": "333",
+        "zySnuid": "333"
+    },
+    "stats": [
+        {
+            "data": [
+                "startup",
+                "all",
+                "3_gamesettings",
+                "",
+                "",
+                "",
+                1
+            ],
+            "statfunction": "count"
+        }
+    ]
+}{
+    "signedParams": {
+        "zyUid": "333",
+        "zySnid": "333",
+        "zySnuid": "333"
+    },
+    "stats": [
+        {
+            "data": [
+                "errors",
+                "transaction_fault_userinit",
+                "0",
+                "errorCode: 2",
+                "test_app_mode: true",
+                "net status failure",
+                1
+            ],
+            "statfunction": "count"
+        }
+    ]
+}{
+    "signedParams": {
+        "zyUid": "333",
+        "zySnid": "333",
+        "zySnuid": "333"
+    },
+    "stats": [
+        {
+            "data": [
+                "startup",
+                "all",
+                "2_preloader_50",
+                "",
+                "",
+                "",
+                1
+            ],
+            "statfunction": "count"
+        }
+    ]
+}{
+    "signedParams": {
+        "zyUid": "333",
+        "zySnid": "333",
+        "zySnuid": "333"
+    },
+    "stats": [
+        {
+            "data": [
+                "startup",
+                "all",
+                "3_gamesettings",
+                "",
+                "",
+                "",
+                1
+            ],
+            "statfunction": "count"
+        }
+    ]
+}{
+    "signedParams": {
+        "zyUid": "333",
+        "zySnid": "333",
+        "zySnuid": "333"
+    },
+    "stats": [
+        {
+            "data": [
+                "errors",
+                "transaction_fault_userinit",
+                "0",
+                "errorCode: 2",
+                "test_app_mode: true",
+                "net status failure",
+                1
+            ],
+            "statfunction": "count"
+        }
+    ]
+}
